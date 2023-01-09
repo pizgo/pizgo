@@ -1,4 +1,4 @@
-👋   Hi, I’m Kasia, a self - taught frontend developer. After years of exploring marketing research and law industry I have decided to switch my career      path once again and step into the IT world.  
+👋   Hi, I’m Kasia, a self - taught frontend developer. After years of exploring marketing research and law industry I have decided to switch my career      path and step into the IT world.  
 
 🌱 Currently as a mentee in the Dare IT Programme I work on my coding skills under the supervision of my mentor.  
 <!-- 👀 I’m interested in --->
