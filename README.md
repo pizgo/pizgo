@@ -19,7 +19,7 @@ Next JS, Cypress, React Query
 ⚡️ Fun fact:
 As a trained pyschologist and researcher I've spent years finding out what is important for the users and how to design products in order to satisfy clients' needs. Now I'm making them! 
 
-## 🔗 Links
+### 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katarzynasiemionczyk/)
 
